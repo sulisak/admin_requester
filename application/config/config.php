@@ -45,11 +45,11 @@ define('DB_PASS', '12345678');
 define('set_charset', 'UTF-8');
 define('DB_SCHEMA', 'public');
 
-define('SMTP_HOST','gator3043.hostgator.com');
-define('SMTP_PORT','465');
-define('SMTP_USERNAME','info-software@aifgrouplaos.com');
-define('SMTP_PASS','SaveMe##2022');
-define('SMTP_ENCRYPTION','ssl');
+define('SMTP_HOST', 'gator3043.hostgator.com');
+define('SMTP_PORT', '465');
+define('SMTP_USERNAME', 'info-software@aifgrouplaos.com');
+define('SMTP_PASS', 'SaveMe##2022');
+define('SMTP_ENCRYPTION', 'ssl');
 
 
 
