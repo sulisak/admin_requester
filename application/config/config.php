@@ -30,8 +30,8 @@ ini_set('session.gc_maxlifetime', 36000);
  */
 // define('URL', 'https://172.16.12.120/aif-adminsys-webview/');
 // define('URL_APPROVER', 'https://172.16.12.120/aif-admin-panel/');
-define('URL', 'https://172.16.12.120/aif-adminsys-webview/');
-define('URL_APPROVER', 'https://172.16.12.120/aif-admin-panel/');
+define('URL', 'https://192.168.100.95/admin_requester/');
+define('URL_APPROVER', 'https://192.168.100.95/aif-admin-panel/');
 
 /**
  * Configuration for: Database
@@ -39,7 +39,7 @@ define('URL_APPROVER', 'https://172.16.12.120/aif-admin-panel/');
  */
 define('DB_TYPE', 'mysql');
 define('DB_HOST', '127.0.0.1');
-define('DB_NAME', 'aifv2');
+define('DB_NAME', 'car_request');
 define('DB_USER', 'root');
 define('DB_PASS', '12345678');
 define('set_charset', 'UTF-8');
